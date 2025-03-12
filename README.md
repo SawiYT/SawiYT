@@ -1,12 +1,5 @@
 # Hi there, I'm SawiYT! 👋
 
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api?username=SawiYT&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 220px;" align="center">
-  <img src="https://github-readme-stats-blond-nine-67.vercel.app/api/top-langs/?username=SawiYT&theme=chartreuse-dark&show_icons=true&hide_border=true&langs_count=10&layout=compact" alt="" style="height: 220px;" align="center">
-</div>
-
 ## 🔗 Connect with me
 
 [![Discord](https://img.shields.io/badge/Discord%20%40ValeryR-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ValeryR)
