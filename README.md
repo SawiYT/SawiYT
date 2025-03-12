@@ -1,6 +1,6 @@
 # Hi there, I'm SawiYT! 👋
 
-## 🔗 Connect with me
+## 🔗 Contact me
 
 [![Discord](https://img.shields.io/badge/Discord%20%40ValeryR-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ValeryR)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrykzielinski123321@gmail.com)
